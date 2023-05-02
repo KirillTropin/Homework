@@ -3,6 +3,7 @@ plugins {
 }
 
 group 'org.example'
+
 defaultArtifacts {
     archivesBaseName="толстый-jar"
 }
